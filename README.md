@@ -1,0 +1,2 @@
+# VisualCppTeachingCase
+VC++ teaching case
